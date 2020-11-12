@@ -1,5 +1,5 @@
 # 图书API
-超级强大的图书数据库，支持开放的图书API，通过ISBN直接获取图书信息，支持13位和10位ISBN，请将 ***{isbn}*** 更换为实际的图书isbn，即可获取图书数据
+超级强大的图书数据库，支持图书API调用，通过ISBN查询图书数据，支持10位和13位ISBN，请将 ***{isbn}*** 更换为实际的图书isbn，即可获取图书数据
 ```
 https://api.ibook.tech/v1/book/isbn?isbn={isbn}&uKey=d2434ac38f394a83aa7c881c7bfb4cb1
 ```
