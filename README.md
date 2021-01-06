@@ -31,7 +31,6 @@ json格式，如果 ***errcode*** 为0，表示成功
 ```
 
 # 其他说明
-使用过程中有任何问题，可以加微信，请备注“github”，也可以直接搜索“图书数据库”微信小程序，获取更多的图书数据
+使用过程中有任何问题，可以加微信，微信号：ibook-kf，请备注“github”，也可以直接搜索“图书数据库”微信小程序，获取更多的图书数据
 
-![微信](https://ibooktech.oss-cn-beijing.aliyuncs.com/project/api/kf.jpg)
 
